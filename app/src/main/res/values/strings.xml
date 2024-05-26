@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SeasonalPestFinal</string>
+
+    <string-array name="Pest">
+        <item>El Niño Season ⌄</item>
+        <item>Rice Stem Borer</item>
+        <item>Brown Planthopper</item>
+        <item>Leafhoppers</item>
+        <item>Corn Earworm</item>
+        <item>Fall Armyworm</item>
+        <item>Corn Borers</item>
+        <item>La Niña Season ⌄</item>
+        <item>Rice Black Bug</item>
+        <item>Green Leafhopper</item>
+        <item>Rice Blast</item>
+        <item>Asian Corn Borer</item>
+        <item>Downy Mildew</item>
+        <item>Cutworms</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>is characterized by warmer and drier conditions, often leading to increased pest activity due to crop stress.</item>
+        <item>Larvae burrow into and feed on the stems of rice plants, causing significant damage and yield loss.\n \nPesticide: Insecticide</item>
+        <item>Sap-sucking insect that feeds on rice plants, transmitting viral diseases and causing "hopperburn," leading to stunted growth and reduced yields.\n \nPesticide: Insecticide</item>
+        <item>Small sap-sucking insects that damage rice plants by feeding on them and transmitting viral diseases.\n \nPesticide: Insecticide</item>
+        <item>Caterpillars that feed on the kernels of corn ears, causing direct damage and making the crop susceptible to secondary infections.\n \nPesticide: Insecticide </item>
+        <item>Larval pest that feeds on the leaves, stems, and reproductive parts of corn, causing extensive damage and reducing crop yields.\n \nPesticide: Insecticide</item>
+        <item>Larvae that bore into corn stalks and ears, disrupting nutrient flow and causing structural damage to the plants.\n \nPesticide: Insecticide</item>
+        <item>La Niña brings cooler and wetter conditions, leading to different pest challenges due to higher humidity and moisture.</item>
+        <item>Insect that feeds on the sap of rice plants, causing wilting, yellowing, and eventual death of the plants.\n \nPesticide: Insecticide</item>
+        <item>Small insect that feeds on rice plant sap and transmits viruses, causing disease and damage to crops.\n \nPesticide: Insecticide</item>
+        <item>Fungal pathogen that infects rice plants, causing lesions on leaves, stems, and grains, leading to significant yield losses.\n \nPesticide: Fungicide</item>
+        <item>Larval pest that bores into corn stalks and ears, causing physical damage and reduced yields.\n \nPesticide: Insecticide</item>
+        <item>Fungal disease that affects corn, causing yellowing, stunting, and death of infected plants.\n \nPesticide: Fungicide</item>
+        <item>Caterpillars that cut down young corn plants at the soil level, causing plant death and reduced stands.\n \nPesticide: Insecticide</item>
+    </string-array>
+
+</resources>
